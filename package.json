@@ -1,0 +1,11 @@
+{
+  "name": "skim-public-registry",
+  "version": "0.0.0",
+  "description": "Skim npm public registry changes",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/skim-public-registry.js",
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "^2.1.4"
+  }
+}
